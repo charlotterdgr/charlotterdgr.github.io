@@ -1,0 +1,50 @@
+.bg {
+    background-image:url('bike1.png');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mt-4 {
+    color: white;
+    font-size: 30px;
+}
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+#bike1 {
+    width: 300px;
+}
+
+#bike2 {
+    width: 300px;
+}
+
+#bike3 {
+    width: 300px;
+}
+
+#bike4 {
+    width: 300px;
+}
+
+#bike5 {
+    width: 300px;
+}
+
+#bike6 {
+    width: 300px;
+}
+
+#bike7 {
+    width: 300px;
+}
+
+#bike8 {
+    width: 300px;
+}
+
+h1 {
+    font-size: 25px;
+}
